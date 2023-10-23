@@ -6,7 +6,8 @@ export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
   return <nav className={styles.navbar}>
-    Portfolio
+    <h1 className={styles.title}>Portfolio</h1>
+    
     <div className={styles.menu}>
         {/* responsive menu button */}
         <img
