@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Online Library",
+      "imageSrc": "projects/onlinelibrary.png",
+      "skills": ["HTML","Bootstrap","PHP", "MySQL"],
+      "videoSrc": "videos/onlinelibrary.mp4"
+    },
+    {
+      "title": "Student Management",
+      "imageSrc": "projects/studentmgt.png",
+      "skills": ["PHP","Laravel","Bootstrap", "MySQL"],
+      "videoSrc": "videos/studentmgt.mp4"
+    }
+]
