@@ -6,7 +6,7 @@ export const Hero = () => {
     <div className={styles.content}>
         <h2 className={styles.title}>I am Christer.</h2>
         <p className={styles.description}>Your full stack web developer.</p>
-        <a href="mailto:email@email.com" className={styles.contactBtn}>Contact</a>
+        <p className={styles.description}>Feel free to click the links to know more.</p>
     </div>
     <img
         src={getImageUrl(`hero/webdevhero.png`)}

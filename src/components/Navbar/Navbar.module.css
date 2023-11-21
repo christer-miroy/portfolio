@@ -33,6 +33,11 @@
     text-decoration: none;
 }
 
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* responsive css */
 @media screen and (max-width: 830px) {
     .navbar {

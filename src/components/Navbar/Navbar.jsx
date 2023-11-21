@@ -1,12 +1,15 @@
 import styles from "./Navbar.module.css"
 import {getImageUrl} from "../../utils"
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
   return <nav className={styles.navbar}>
-    <h1 className={styles.title}>Portfolio</h1>
+    <Link to="/portfolio" className={styles.link}>
+        <h1 className={styles.title}>cPort</h1>
+    </Link>
     
     <div className={styles.menu}>
         {/* responsive menu button */}
@@ -22,13 +25,13 @@ export const Navbar = () => {
             onClick={() => setMenuOpen(false)}
         >
             <li>
-                <a href="#about">About</a>
+                <Link to="/about">About</Link>
             </li>
             <li>
-                <a href="#skills">Skills</a>
+                <Link to="/skills">Skills</Link>
             </li>
             <li>
-                <a href="#projects">Projects</a>
+                <Link to="/projects">Projects</Link>
             </li>
             <li>
                 <a href="#contact">Contact</a>
