@@ -10,5 +10,11 @@
       "imageSrc": "projects/studentmgt.png",
       "skills": ["PHP","Laravel","Bootstrap", "MySQL"],
       "videoSrc": "videos/studentmgt.mp4"
+    },
+    {
+      "title": "Employee 201",
+      "imageSrc": "projects/laravel_react.png",
+      "skills": ["React","Laravel","MySQL"],
+      "videoSrc": "videos/laravel_react.mp4"
     }
 ]
