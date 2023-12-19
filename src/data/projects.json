@@ -16,5 +16,11 @@
       "imageSrc": "projects/laravel_react.png",
       "skills": ["React","Laravel","MySQL"],
       "videoSrc": "videos/laravel_react.mp4"
+    },
+    {
+      "title": "Admin Dashboard",
+      "imageSrc": "projects/react_admin_dashboard.png",
+      "skills": ["React","Tailwind CSS"],
+      "videoSrc": "videos/dashboard.mp4"
     }
 ]
