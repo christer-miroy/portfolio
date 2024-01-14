@@ -22,5 +22,11 @@
       "imageSrc": "projects/react_admin_dashboard.png",
       "skills": ["React","Tailwind CSS"],
       "videoSrc": "videos/dashboard.mp4"
+    },
+    {
+      "title": "Student List",
+      "imageSrc": "projects/react_admin_dashboard.png",
+      "skills": ["React","NodeJS", "MySQL"],
+      "videoSrc": "videos/react-node-mysql.mp4"
     }
 ]
