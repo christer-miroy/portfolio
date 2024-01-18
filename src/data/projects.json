@@ -28,5 +28,11 @@
       "imageSrc": "projects/react_admin_dashboard.png",
       "skills": ["React","NodeJS", "MySQL"],
       "videoSrc": "videos/react-node-mysql.mp4"
+    },
+    {
+      "title": "Property Listings",
+      "imageSrc": "projects/listings.png",
+      "skills": ["CSS","React","NodeJS","MySQL"],
+      "videoSrc": "videos/listings.mp4"
     }
 ]
